@@ -1,9 +1,9 @@
 # Node Recorder
 
 ## Intro
-Receiving odometry data and saving the node trajectory as CSV file.
+This is a reference code, not the one for the assignment.
 
-(for EE405A) This is a reference code, not the one for the assignment. Please refer to these codes (recoder.py, loader.py) and make your own code to 1) receive odom messages, 2) manage nodes, and 3) visualize the nodes through Rviz (e.g., by using Marker messages).
+Please refer to these codes (recoder.py, loader.py) and make your own code to 1) receive odom messages, 2) manage nodes, and 3) visualize the nodes through Rviz (e.g., by using Marker messages).
 
 ## Odom subscriber part (script/recorder.py)
 Refer to the following part to receice odometry messages.
